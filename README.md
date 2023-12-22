@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building projects to futher develop my programming skills
 - 💻 I'm currently learning CSS and HTML
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smb78998)](https://github.com/smb78998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998)](https://github.com/smb78998/github-readme-stats)
 <!--
 **smb78998/smb78998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
