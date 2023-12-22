@@ -1,5 +1,9 @@
 ### Hi I'm Sophie, Welcome to my github! 👋
 
+<p>I'm a student working on earning my Bachelor of Applied Science in Software Development. </p>
+
+- 🔭 I’m currently working on building projects to futher develop my programming skills
+- 💻 I'm currently learning CSS and HTML 
 <!--
 **smb78998/smb78998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
