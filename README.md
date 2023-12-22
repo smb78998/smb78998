@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Sophie, Welcome to my github! 👋
 
 <!--
 **smb78998/smb78998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
