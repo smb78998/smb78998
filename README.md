@@ -3,7 +3,7 @@
 <p>I'm a student working on earning my Bachelor of Applied Science in Software Development. </p>
 
 - 🔭 I’m currently working on building projects to futher develop my programming skills
-- 💻 I'm currently learning CSS and HTML
+- 💻 I'm currently learning Javascript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998&layout=compact)
 <!--
