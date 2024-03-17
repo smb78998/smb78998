@@ -6,10 +6,11 @@
 - 💻 I'm currently learning Javascript
 
 
-##View My Most Recent Project Here
+## View My Most Recent Project Here
 
-[Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
+#[Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
 
+<hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998&layout=compact)
 <!--
 **smb78998/smb78998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
