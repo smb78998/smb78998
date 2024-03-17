@@ -9,6 +9,7 @@
 ## View My Most Recent Project Here
 
 ### [Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
+<img src="website.png" width="200">
 
 <br>
 <hr>
