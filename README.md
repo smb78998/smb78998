@@ -5,15 +5,14 @@
 - 🔭 I’m currently working on building projects to futher develop my programming skills
 - 💻 I'm currently learning Javascript
 
-
+<br>
 ## View My Most Recent Project Here
 
 ### [Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
-<img src="website.png" width="200">
+<a href="https://smb78998.github.io/a_202420-CEN-4350/"></a><img src="website.png" width="200">
 
 <br>
 <hr>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998&layout=compact)
 <!--
