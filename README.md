@@ -1,9 +1,14 @@
-### Hi I'm Sophie, Welcome to my github! 👋
+# Hi I'm Sophie, Welcome to my github! 👋
 
 <p>I'm a student working on earning my Bachelor of Applied Science in Software Development. </p>
 
 - 🔭 I’m currently working on building projects to futher develop my programming skills
 - 💻 I'm currently learning Javascript
+
+
+##View My Most Recent Project Here
+
+[Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998&layout=compact)
 <!--
