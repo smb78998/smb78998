@@ -10,7 +10,9 @@
 
 ### [Full Stack Podcast Website](https://github.com/smb78998/a_202420-CEN-4350)
 
+<br>
 <hr>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb78998&layout=compact)
 <!--
