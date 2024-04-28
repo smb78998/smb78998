@@ -3,7 +3,7 @@
 <p>I'm a student working on earning my Bachelor of Applied Science in Software Development. </p>
 
 - 🔭 I’m currently working on building projects to futher develop my programming skills
-- 💻 I'm currently learning Ract, Javascript, PHP and SQL
+- 💻 I'm currently learning React, Javascript, PHP and SQL
 - Email:smb78998@gmail.com
 
 <br>
