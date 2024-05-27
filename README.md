@@ -10,8 +10,8 @@
 
 ## View My Most Recent Project Here
 
-### [Full Stack Podcast Website](http://moneytalks.lovestoblog.com/?i=1)
-<a href="https://smb78998.github.io/a_202420-CEN-4350/"><img src="website.png" width="200"></a>
+### [Full Stack Podcast Website](https://github.com/smb78998/full-stack-podcast-website)
+<a href="http://moneytalks.lovestoblog.com"><img src="website.png" width="200"></a>
 
 
 
