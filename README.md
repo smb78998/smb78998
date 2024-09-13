@@ -4,7 +4,11 @@
 
 - 🔭 I’m currently working on building projects to futher develop my programming skills
 - 💻 I'm currently learning Web development and Godot
-- Email:smb78998@gmail.com
+- 📊 Interning @ Siemens Energy as a Data Analyst
+
+## Contact Information
+- smb78998@gmail.com <br>
+- <a href="https://www.linkedin.com/in/sophia-burgos-736a3a26b/">Visit Linkedin</a>
 
 <br>
 
