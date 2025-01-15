@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on building projects to futher develop my programming skills
 - 💻 I'm currently learning Web development and Godot
-- 📊 Intered @ Siemens Energy as a Data Analyst
+
 
 ## Contact Information
 - smb78998@gmail.com <br>
